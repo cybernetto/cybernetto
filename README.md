@@ -1,6 +1,3 @@
-### 🚀 **Enhanced Hacker-Flavored GitHub `README.md`**
-
-````markdown
 <img src="https://media.giphy.com/media/L0Nmyw1k1BV5G/giphy.gif" width="100%" />
 
 <h1 align="center">👋 Yo! I'm Raimundo Almada</h1>
@@ -75,5 +72,4 @@
   <strong>“Code hard. Hack deeper. Understand everything.”</strong><br>
   <sub><i>Access granted. Welcome to the underground.</i></sub>
 </p>
-```
 
